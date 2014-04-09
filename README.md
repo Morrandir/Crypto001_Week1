@@ -62,7 +62,7 @@ START---A (private-key)  encrcption scheme states 3 algorethms, namely a procedu
 START--- The Concise OxfordDiytionary (2006) deﬁnes cry|to as the art of  writing o r sol---END
 ```
 
-Clearly all the plain texts has something strange words. Now again I just completed `CRACK` with the colon and comma I assumed:
+Clearly all the plain texts has some strange words (e.g. "numxer", "njoy", "bicomes", etc.). Now again I just completed `CRACK` with the colon and comma I assumed:
 
 ```The secret message is: When using a stream cipher, never use the key more than once```
 
